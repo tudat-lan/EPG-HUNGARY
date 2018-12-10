@@ -12,3 +12,11 @@ Debian ubuntu 16.04 apache2 - php7 követelmény.
 
 Hiba az index.php-t admin panelban megtalálod,hogy kézzel is le tudod futtatni. 10 perc után ha kézzel ha cronnal futtatod megál..
 
+cron:
+
+0 0 * * * wget http://oldalad.hu/index.php?country=HU
+
+Vagy böngészőben is letudod futtatni:
+
+http://oldalad.hu/index.php?country=HU
+
