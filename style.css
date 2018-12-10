@@ -1,0 +1,81 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-size: 120%;
+  background: bebum.png;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header {
+  width: 300px;
+  height: 20px;
+  margin: 20px auto 0px;
+  color: yellow;
+  background:  #000000;
+  text-align: center;
+
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 10px;
+}
+form, .content {
+  width: 280px;
+  height: px;
+  margin: 0px auto;
+  padding: 20px;
+  background: bebebum.png;
+  border-radius: 0px 0px 10px 10px;
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+  background: bebebum.png;
+}
+.input-group label {
+  display: block;
+  color: #FFFF00;
+  text-align: center;
+  margin: 3px;
+}
+.input-group input {
+  height: 18px;
+  width: 93%;
+  background: bebebum.png;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.btn {
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  widht: 60px;
+  height: 45px;
+  color: black;
+  background: #777705;
+ 
+  border-radius: 5px;
+
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
