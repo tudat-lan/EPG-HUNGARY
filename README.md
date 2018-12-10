@@ -20,3 +20,10 @@ Vagy böngészőben is letudod futtatni:
 
 http://oldalad.hu/index.php?country=HU
 
+Ez NEM A TELJES!!!
+
+Innen lehet a teljeset letölteni:
+
+https://www.filehosting.org/file/details/769879/EPG08.28.rar
+
+https://www.zipshare.com/download/eyJhcmNoaXZlSWQiOiI5YWEyYjEwOS1hMTBlLTQ3OGItOGFlZC03NjU5NDM3YzFjNjYiLCJlbWFpbCI6Imtpc21hcm90aTFAZ21haWwuY29tIn0=
